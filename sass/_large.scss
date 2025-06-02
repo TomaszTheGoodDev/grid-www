@@ -1,4 +1,9 @@
 @media (min-width: 992px) {
+
+h1.company-name {
+	font-size: 6rem;
+}
+
 	.header {
 		grid-template-rows: auto 1fr 1fr;
 
@@ -91,4 +96,16 @@
 		display: none;
 		
 	}
+}
+
+
+
+// ------------1200px-----------
+
+
+@media (min-width: 1200px) {
+
+
+
+	
 }

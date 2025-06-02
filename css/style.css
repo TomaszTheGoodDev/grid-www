@@ -159,6 +159,9 @@ h1.company-name {
 }
 
 @media (min-width: 992px) {
+  h1.company-name {
+    font-size: 6rem;
+  }
   .header {
     grid-template-rows: auto 1fr 1fr;
   }
